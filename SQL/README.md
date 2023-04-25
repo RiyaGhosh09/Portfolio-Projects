@@ -7,7 +7,7 @@ This is the [link](https://github.com/RiyaGhosh09/Portfolio-Projects/blob/main/S
 [Link](https://public.tableau.com/views/SalesDashboard_16823200901340/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) for the Tableau Dashboards.
 
 
-1. CHECKING UNIQUE VALUES
+1. CHECKING UNIQUE VALUES 
 
 a. Checking for distinct **statuses** from the Sales Data
 
